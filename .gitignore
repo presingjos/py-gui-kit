@@ -1,0 +1,15 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/client/node_modules
+/client/src
+
+client/package-lock.json
+*.pyc
+client/README.md
+client/public/favicon.ico
+client/public/index.html
+client/public/manifest.json
+client/.DS_Store
+.vscode/settings.json
+.DS_Store
